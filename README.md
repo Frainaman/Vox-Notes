@@ -28,6 +28,8 @@ The approach leverages a specialized pipeline:
   - mobile/ Contains the hybrid mobile application source code (React + Capacitor).
       - *src/components/VoiceRecorder.tsx*: Manages native audio recording via Capacitor and handles API communication.
       - *src/components/MidiEditor.tsx*: The core visual component. Parses binary MIDI data and renders the interactive Piano Roll using react-konva.
+
+frontend/ is the directory of the prototype webapp, which is now deprecated.
     
 ## How to run
 
