@@ -6,7 +6,7 @@ import { FaMicrophone, FaStop, FaSpinner } from "react-icons/fa";
 import "./App.css";
 
 
-const API_URL = "http://192.168.1.5:8000";
+const API_URL = "http://:8000";
 
 interface Note {
   id: string;
